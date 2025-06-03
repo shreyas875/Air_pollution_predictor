@@ -1,1 +1,2 @@
 # Air_pollution_predictor
+The Air Pollution Predictor is a machine learning-based project designed to forecast air quality levels by analyzing environmental data. The system leverages historical datasets comprising pollutant concentrations (such as PM2.5, PM10, NO₂, CO, SO₂, and O₃), weather parameters (temperature, humidity, wind speed), and time-related features to predict future pollution levels with high accuracy
